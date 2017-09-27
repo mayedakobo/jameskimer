@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<states>
+	<state>
+		<statecode>tx</statecode>
+		<name>Texas</name>
+		<no_of_schools>54</no_of_schools>
+		<school_names>Harmony, Science and Technology</school_names>
+		<total_enrollmemt>32,493</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$317,437,421</total_revenues>
+		<related_institutions>Dove Public Charter School Foundation, Little Scholars of Arkansas Foundation</related_institutions>
+		<key_people>Ali Yavuz Zeybek, Yetkin Yildrim, Vahap Uysal</key_people>
+		<h1_b>2,990</h1_b>
+		<state_chapter_pdf>pdf/Texas State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/TEXAS.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ca</statecode>
+		<name>California</name>
+		<no_of_schools>11</no_of_schools>
+		<school_names>Magnolia Science Academy, Bay Area Technology Charter School</school_names>
+		<total_enrollmemt>3,714</total_enrollmemt>
+		<charter_operator>MERF Magnolia Public School</charter_operator>
+		<total_revenues>$50,708,614</total_revenues>
+		<related_institutions>Sonora, Paragon, Coral</related_institutions>
+		<key_people>Huseyin Hurmali, Ertan Salik, Remzi Oten, Suleyman Bahceci</key_people>
+		<h1_b>457</h1_b>
+		<state_chapter_pdf>pdf/California State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/CALIFORNIA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ok</statecode>
+		<name>Oklahoma</name>
+		<no_of_schools>4</no_of_schools>
+		<school_names>Dove Science Academy, Dove Science Elementary</school_names>
+		<total_enrollmemt>1,842</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$11,542,243</total_revenues>
+		<related_institutions>Little Scholars of Arkansas, Millenium Education Foundation</related_institutions>
+		<key_people>Zeynep Gunay, Halil Tas, Elvan Ceyhan, Ali Yavuz Zeybek</key_people>
+		<h1_b>306</h1_b>
+		<state_chapter_pdf>pdf/Oklahoma State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/OKLAHOMA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>nm</statecode>
+		<name>New Mexico</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Albuquerque School of Excellence</school_names>
+		<total_enrollmemt>289</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$2,275,242</total_revenues>
+		<related_institutions>Harmony D.C. Public School, Read Foundation, Memphis School of Excellence</related_institutions>
+		<key_people>Sam Atlunc, Unal Sakoglu, Mehmet Fatih Su</key_people>
+		<h1_b>18</h1_b>
+		<state_chapter_pdf>pdf/New Mexico State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/NEW MEXICO.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>nj</statecode>
+		<name>New Jersey</name>
+		<no_of_schools>7</no_of_schools>
+		<school_names>iLearn Schools, Central Jersey College Prep</school_names>
+		<total_enrollmemt>4,797</total_enrollmemt>
+		<charter_operator>iLearn Schools</charter_operator>
+		<total_revenues>$50,500,000</total_revenues>
+		<related_institutions>Hampden, Pioneer, Academy of Science</related_institutions>
+		<key_people>Osman Oztoprak, Candemir Taklu, Nihat Guvercin</key_people>
+		<h1_b>270</h1_b>
+		<state_chapter_pdf>pdf/New Jersey State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/NEW JERSEY.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>az</statecode>
+		<name>Arizona</name>
+		<no_of_schools>7</no_of_schools>
+		<school_names>Sonoran Science Academy, Paragon Science Academy</school_names>
+		<total_enrollmemt>2,292</total_enrollmemt>
+		<charter_operator>Sonoran Schools, Inc.</charter_operator>
+		<total_revenues>$18,983,866</total_revenues>
+		<related_institutions>Coral, Magnolia, Lotus</related_institutions>
+		<key_people>Feyzi Tandogan, Eray Idil</key_people>
+		<h1_b>358</h1_b>
+		<state_chapter_pdf>pdf/Arizona State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/ARIZONA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>nc</statecode>
+		<name>North Carolina</name>
+		<no_of_schools>3</no_of_schools>
+		<school_names>Queen City, Triad Math and Science, Triangle Math and Science</school_names>
+		<total_enrollmemt>2,262</total_enrollmemt>
+		<charter_operator>Washington Education Foundation</charter_operator>
+		<total_revenues>$11,354,470.59</total_revenues>
+		<related_institutions>Chesapeake</related_institutions>
+		<key_people>Ali Tombak, Mustafa Atay, Mahfuz Sapan</key_people>
+		<h1_b>63</h1_b>
+		<state_chapter_pdf>pdf/North Carolina State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/NORTH CAROLINA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>mn</statecode>
+		<name>Minnesota</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Minnesota Math and Science Academy</school_names>
+		<total_enrollmemt>340</total_enrollmemt>
+		<charter_operator>Concept Schools, Inc.</charter_operator>
+		<total_revenues>$5,192,659</total_revenues>
+		<related_institutions>Gateway, Horizon, Noble</related_institutions>
+		<key_people>Ozer Asdemir, Murat Ergen</key_people>
+		<h1_b>10</h1_b>
+		<state_chapter_pdf>pdf/Minnesota State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/MINNESOTA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>co</statecode>
+		<name>Colorado</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Lotus School of Excellence</school_names>
+		<total_enrollmemt>839</total_enrollmemt>
+		<charter_operator>Accord Institute of Education</charter_operator>
+		<total_revenues>$7,600,000</total_revenues>
+		<related_institutions>Magnolia, Sonoran, Coral</related_institutions>
+		<key_people>Bilal Ternel, Umit Yapanel, Alptekin Kavi</key_people>
+		<h1_b>54</h1_b>
+		<state_chapter_pdf>pdf/Colorado State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/COLORADO.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>nv</statecode>
+		<name>Nevada</name>
+		<no_of_schools>8</no_of_schools>
+		<school_names>Coral Academy of Science</school_names>
+		<total_enrollmemt>2,733</total_enrollmemt>
+		<charter_operator>Coral Academy of Science Central Office</charter_operator>
+		<total_revenues>$19,543,637</total_revenues>
+		<related_institutions>Magnolia, Lotus, Beehive</related_institutions>
+		<key_people>Feyzi Tandogan, Eray Idil, Fatih Ozer</key_people>
+		<h1_b>15</h1_b>
+		<state_chapter_pdf>pdf/Nevada State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/NEVADA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ut</statecode>
+		<name>Utah</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Beehive Science and Technology Academy</school_names>
+		<total_enrollmemt>297</total_enrollmemt>
+		<charter_operator>N/A</charter_operator>
+		<total_revenues>$2,312,428</total_revenues>
+		<related_institutions>Lotus, Sonoran, Paragon</related_institutions>
+		<key_people>Murat Ozoglu, Bekir Gur, Abdullah Tulek</key_people>
+		<h1_b>40</h1_b>
+		<state_chapter_pdf>pdf/Utah State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/UTAH.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>oh</statecode>
+		<name>Ohio</name>
+		<no_of_schools>17</no_of_schools>
+		<school_names>Horizon Science Academy, Noble Academy</school_names>
+		<total_enrollmemt>6,334</total_enrollmemt>
+		<charter_operator>Concept Schools, Inc.</charter_operator>
+		<total_revenues>$50,226,432</total_revenues>
+		<related_institutions>Horzion, Gateway</related_institutions>
+		<key_people>Taner Ertekin, Vedat Akgun, Sedat Duman</key_people>
+		<h1_b>833</h1_b>
+		<state_chapter_pdf>pdf/Ohio State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/OHIO.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>wi</statecode>
+		<name>Wisconsin</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Milwaukee math and Science Academy</school_names>
+		<total_enrollmemt>341</total_enrollmemt>
+		<charter_operator>Concept Schools, Inc.</charter_operator>
+		<total_revenues>$2,666,070</total_revenues>
+		<related_institutions>Math and Science, Gateway, Noble</related_institutions>
+		<key_people>Y. Alp Aslandogan, Ibrahim Duyar</key_people>
+		<h1_b>59</h1_b>
+		<state_chapter_pdf>pdf/Wisconsin State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/WISCONSIN.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>md</statecode>
+		<name>Maryland</name>
+		<no_of_schools>4</no_of_schools>
+		<school_names>Chesapeake Science Point, Chesapeake Math and IT</school_names>
+		<total_enrollmemt>2,065</total_enrollmemt>
+		<charter_operator>Chesapeake Lighthouse Foundation</charter_operator>
+		<total_revenues>$22,018,970</total_revenues>
+		<related_institutions>Loudoun Math and IT Academy</related_institutions>
+		<key_people>Lutfi On, Ali Bicak</key_people>
+		<h1_b>35</h1_b>
+		<state_chapter_pdf>pdf/Maryland State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/MARYLAND.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>mi</statecode>
+		<name>Michigan</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Michigan Math and Science Academy</school_names>
+		<total_enrollmemt>615</total_enrollmemt>
+		<charter_operator>Concept Schools Inc.</charter_operator>
+		<total_revenues>$5,290,707</total_revenues>
+		<related_institutions>Math and Science, Noble, Horizon</related_institutions>
+		<key_people>Salim Ucan, Taulant Kadiu</key_people>
+		<h1_b>18</h1_b>
+		<state_chapter_pdf>pdf/Michigan State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/MICHIGAN.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ar</statecode>
+		<name>Arkansas</name>
+		<no_of_schools>6</no_of_schools>
+		<school_names>LISA Academy West, LISA Academy North</school_names>
+		<total_enrollmemt>1,525</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$12,518,590</total_revenues>
+		<related_institutions>Pelican Educational Foundation, Millenium Education Foundation</related_institutions>
+		<key_people>Sinan Kockara, Halil Bisgin, Eric Higgins</key_people>
+		<h1_b>179</h1_b>
+		<state_chapter_pdf>pdf/Arkansas State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/ARKANSAS.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>pa</statecode>
+		<name>Pennsylvania</name>
+		<no_of_schools>4</no_of_schools>
+		<school_names>Young Scholars Vision Academy</school_names>
+		<total_enrollmemt>912</total_enrollmemt>
+		<charter_operator>Apple Educational Services, Inc.</charter_operator>
+		<total_revenues>$12,545,382.74</total_revenues>
+		<related_institutions>Central Jersey College Prep Charter School, Hampden</related_institutions>
+		<key_people>Riza Ulker, Bulent Tarman, Adem Oksuz</key_people>
+		<h1_b>106</h1_b>
+		<state_chapter_pdf>pdf/Pennsylvania State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/PENNSYLVANIA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>la</statecode>
+		<name>Louisiana</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Kenilworth Science and Technology Charter School</school_names>
+		<total_enrollmemt>561</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$6,653,133</total_revenues>
+		<related_institutions>Little Scholars of Arkansas, Albuquerque School of Excellence</related_institutions>
+		<key_people>Tevfik Kosar, Serkan Ozel, Adem Ozel</key_people>
+		<h1_b>107</h1_b>
+		<state_chapter_pdf>pdf/Louisiana State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/LOUISIANA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>il</statecode>
+		<name>Illinois</name>
+		<no_of_schools>4</no_of_schools>
+		<school_names>Horizon Science Academy, Math and Science Academy</school_names>
+		<total_enrollmemt>2,196</total_enrollmemt>
+		<charter_operator>Concept Schools, Inc.</charter_operator>
+		<total_revenues>$22,827,232</total_revenues>
+		<related_institutions>Gateway, Horizon, Noble</related_institutions>
+		<key_people>Taner Ertekin, Sedat Duman</key_people>
+		<h1_b>200-253</h1_b>
+		<state_chapter_pdf>pdf/Illinois State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/ILLINOIS.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>sc</statecode>
+		<name>South Carolina</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Green Charter Schools</school_names>
+		<total_enrollmemt>559</total_enrollmemt>
+		<charter_operator>Greenville Renewable Energy Charter School</charter_operator>
+		<total_revenues>$5,234,068</total_revenues>
+		<related_institutions>Triad, Triangle, Queen City</related_institutions>
+		<key_people>Imtiaz Harque, Amanda Yilmaz</key_people>
+		<h1_b>195</h1_b>
+		<state_chapter_pdf>pdf/South Carolina State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/SOUTH CAROLINA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ma</statecode>
+		<name>Massachusetts</name>
+		<no_of_schools>3</no_of_schools>
+		<school_names>Pioneer Charter School of Science, Hampden Charter School of Science</school_names>
+		<total_enrollmemt>1,061</total_enrollmemt>
+		<charter_operator></charter_operator>
+		<total_revenues>$16,450,960</total_revenues>
+		<related_institutions>Academy of Science, Chesapeake</related_institutions>
+		<key_people>Recai Yucel, Necmi Atmaca</key_people>
+		<h1_b>86</h1_b>
+		<state_chapter_pdf>pdf/Massachusetts State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/MASSACHUSETTS.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>in</statecode>
+		<name>Indiana</name>
+		<no_of_schools>3</no_of_schools>
+		<school_names>Indiana Math and Science Academy</school_names>
+		<total_enrollmemt>1,476</total_enrollmemt>
+		<charter_operator>Concept Schools, Inc.</charter_operator>
+		<total_revenues>$14,419,490</total_revenues>
+		<related_institutions>Math and Science, Gateway, Horizon</related_institutions>
+		<key_people>Kazim Eldes, Cemil Selcuk, Tim Nation, Numan Koca</key_people>
+		<h1_b>83</h1_b>
+		<state_chapter_pdf>pdf/Indiana State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/INDIANA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>fl</statecode>
+		<name>Florida</name>
+		<no_of_schools>12</no_of_schools>
+		<school_names>Science Charter School, River City Science Academy, New Springs Schools</school_names>
+		<total_enrollmemt>4,525</total_enrollmemt>
+		<charter_operator>Charter Educational Services and Resources</charter_operator>
+		<total_revenues>$29,603,000</total_revenues>
+		<related_institutions>Green</related_institutions>
+		<key_people>Yalcin Akin, Eray Idil, Akif Aydin</key_people>
+		<h1_b>195</h1_b>
+		<state_chapter_pdf>pdf/Florida State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/FLORIDA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ga</statecode>
+		<name>Georgia</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Fulton Science Academy Private School</school_names>
+		<total_enrollmemt></total_enrollmemt>
+		<charter_operator>Charter Educational Services and Resources</charter_operator>
+		<total_revenues>$2,312,428</total_revenues>
+		<related_institutions>River City Science, New Springs Schools</related_institutions>
+		<key_people>Kemal Gur, Avni Cokavci</key_people>
+		<h1_b>61</h1_b>
+		<state_chapter_pdf>pdf/Georgia State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/GEORGIA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>tn</statecode>
+		<name>Tennessee</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Memphis School of Excellence</school_names>
+		<total_enrollmemt>454</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$4,159,192</total_revenues>
+		<related_institutions>Harmony D.C., Albuquerque School of Excellence</related_institutions>
+		<key_people>Cem Akkus, Mutlu Celikak, Emin Kuscu</key_people>
+		<h1_b>21</h1_b>
+		<state_chapter_pdf>pdf/Tennessee State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/TENNESSEE.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>dc</statecode>
+		<name>District of Columbia</name>
+		<no_of_schools>1</no_of_schools>
+		<school_names>Harmony School of Excellence</school_names>
+		<total_enrollmemt>105</total_enrollmemt>
+		<charter_operator>Harmony Public Schools</charter_operator>
+		<total_revenues>$2,089,693</total_revenues>
+		<related_institutions>Harmony, Millenium, Read</related_institutions>
+		<key_people>Soner Tarim, Julie Norton</key_people>
+		<h1_b>1</h1_b>
+		<state_chapter_pdf>pdf/Washington DC State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/DISTRICT OF COLUMBIA.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>ny</statecode>
+		<name>New York</name>
+		<no_of_schools>5</no_of_schools>
+		<school_names>Rochester Academy, Utica Academy of Science, Buffalo Academy of Science</school_names>
+		<total_enrollmemt>1,924</total_enrollmemt>
+		<charter_operator>Terra Science and Education</charter_operator>
+		<total_revenues>$25,501,185</total_revenues>
+		<related_institutions>Young Scholars, Hampden, Pioneer</related_institutions>
+		<key_people>Ehat Ercanli, Yildiray Yildirim</key_people>
+		<h1_b>118</h1_b>
+		<state_chapter_pdf>pdf/New York State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/NEW YORK.pdf</infographic_pdf>
+	</state>
+	<state>
+		<statecode>mo</statecode>
+		<name>Missouri</name>
+		<no_of_schools>17</no_of_schools>
+		<school_names>Gateway Science Academy, Frontier</school_names>
+		<total_enrollmemt>2,789</total_enrollmemt>
+		<charter_operator>Concept Schools Inc., Frontier Schools Inc.</charter_operator>
+		<total_revenues>$33,811,409</total_revenues>
+		<related_institutions>LISA, Dove Science, Career Academy</related_institutions>
+		<key_people>Kemal Akkaya, Coskun Cetinaya</key_people>
+		<h1_b>83</h1_b>
+		<state_chapter_pdf>pdf/Missouri State Profile.pdf</state_chapter_pdf>
+		<infographic_pdf>pdf/MISSOURI.pdf</infographic_pdf>
+	</state>
+</states>

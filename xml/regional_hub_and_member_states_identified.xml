@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<state>
+	<state>
+		<statecode>ny</statecode>
+		<color>#ff7e00</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>596</pos_X>
+		<pos_Y>96</pos_Y>
+		<region>North-East Region</region>
+	</state>
+	<state>
+		<statecode>pa</statecode>
+		<color>#ff7e00</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>587</pos_X>
+		<pos_Y>144</pos_Y>
+		<region>North-East Region</region>
+	</state>
+	<state>
+		<statecode>ma</statecode>
+		<color>#ff7e00</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>627</pos_X>
+		<pos_Y>110</pos_Y>
+		<region>North-East Region</region>
+	</state>
+	<state>
+		<statecode>nj</statecode>
+		<color>#ff7e00</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>613</pos_X>
+		<pos_Y>155</pos_Y>
+		<region>North-East Region</region>
+	</state>
+	<state>
+		<statecode>md</statecode>
+		<color>#00a8ff</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>587</pos_X>
+		<pos_Y>174</pos_Y>
+		<region>Mid-Atlantic Region</region>
+	</state>
+	<state>
+		<statecode>nm</statecode>
+		<color>#41ad49</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>220</pos_X>
+		<pos_Y>260</pos_Y>
+		<region>Greater Texas Region</region>
+	</state>
+	<state>
+		<statecode>ok</statecode>
+		<color>#41ad49</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>321</pos_X>
+		<pos_Y>256</pos_Y>
+		<region>Greater Texas Region</region>
+	</state>
+	<state>
+		<statecode>la</statecode>
+		<color>#41ad49</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>403</pos_X>
+		<pos_Y>320</pos_Y>
+		<region>Greater Texas Region</region>
+	</state>
+	<state>
+		<statecode>tn</statecode>
+		<color>#41ad49</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>460</pos_X>
+		<pos_Y>250</pos_Y>
+		<region>Greater Texas Region</region>
+	</state>
+	<state>
+		<statecode>tx</statecode>
+		<color>#41ad49</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>319</pos_X>
+		<pos_Y>310</pos_Y>
+		<region>Greater Texas Region</region>
+	</state>
+	<state>
+		<statecode>nc</statecode>
+		<color>#ff4200</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>551</pos_X>
+		<pos_Y>235</pos_Y>
+		<region>South-East Region</region>
+	</state>
+	<state>
+		<statecode>sc</statecode>
+		<color>#ff4200</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>535</pos_X>
+		<pos_Y>258</pos_Y>
+		<region>South-East Region</region>
+	</state>
+	<state>
+		<statecode>ga</statecode>
+		<color>#ff4200</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>513</pos_X>
+		<pos_Y>279</pos_Y>
+		<region>South-East Region</region>
+	</state>
+	<state>
+		<statecode>fl</statecode>
+		<color>#ff4200</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>550</pos_X>
+		<pos_Y>347</pos_Y>
+		<region>South-East Region</region>
+	</state>
+	<state>
+		<statecode>nv</statecode>
+		<color>#ff75fa</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>92</pos_X>
+		<pos_Y>164</pos_Y>
+		<region>Western Region</region>
+	</state>
+	<state>
+		<statecode>ut</statecode>
+		<color>#ff75fa</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>152</pos_X>
+		<pos_Y>176</pos_Y>
+		<region>Western Region</region>
+	</state>
+	<state>
+		<statecode>co</statecode>
+		<color>#ff75fa</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>216</pos_X>
+		<pos_Y>195</pos_Y>
+		<region>Western Region</region>
+	</state>
+	<state>
+		<statecode>az</statecode>
+		<color>#ff75fa</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>142</pos_X>
+		<pos_Y>255</pos_Y>
+		<region>Western Region</region>
+	</state>
+	<state>
+		<statecode>ca</statecode>
+		<color>#ff75fa</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>55</pos_X>
+		<pos_Y>216</pos_Y>
+		<region>Western Region</region>
+	</state>
+	<state>
+		<statecode>mo</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>385</pos_X>
+		<pos_Y>203</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>mn</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>359</pos_X>
+		<pos_Y>89</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>wi</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>410</pos_X>
+		<pos_Y>103</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>in</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>464</pos_X>
+		<pos_Y>168</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>oh</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>503</pos_X>
+		<pos_Y>181</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>mi</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>state</state_type>
+		<pos_X>472</pos_X>
+		<pos_Y>117</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+	<state>
+		<statecode>il</statecode>
+		<color>#d9a536</color>
+		<hovercolor>#ff0000</hovercolor>
+		<state_type>hub</state_type>
+		<pos_X>430</pos_X>
+		<pos_Y>170</pos_Y>
+		<region>Mid-West Region</region>
+	</state>
+</state>
